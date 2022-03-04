@@ -10,4 +10,4 @@
 - 📫 How to reach me: ...email
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I have Zimbabwean roots
-- :clown_face: P.S:  My github needs some structure and order. As soon as I find time, and know how, I will gradually fix it. 
+- :clown_face: P.S: Check out my website ![My Personal Website](https://www.georgemushore.com)
