@@ -1,26 +1,22 @@
-#  Hi there 👋 I'm George Mushore 
+# Hi there 👋 I'm George Mushore
 
-
-I'm a Platform Engineer based in Oslo, passionate about the development chain and infrastructure automation. Currently, I'm particularly fascinated by the intersection of infrastructure as code, CI/CD pipelines, and cloud-native technologies.
+I'm a versatile software engineer based in Oslo, with a strong background in platform engineering, data analysis, and full-stack development. My expertise spans infrastructure automation, frontend technologies, and data engineering, enabling me to contribute across various stages of the development lifecycle. I'm passionate about leveraging cutting-edge tools and practices in cloud computing, CI/CD pipelines, and data processing to solve complex challenges.
 
 ## 🔧 Skills
 
-- Programming Languages:  Javascript, Typescript, Python, R, SQL, Terraform, Powershell, Bash, Rust, Matlab
-- Frameworks & Technologies: Vue.js, Flutter, Numpy, Tidyverse
-- Other Skills: Infrastructure as Code, CI/CD, Cloud Computing (Azure, AWS)
+- **Programming Languages**: Javascript, Typescript, Python, R, SQL, Terraform, Powershell, Bash, Rust, Matlab
+- **Other Skills**: Infrastructure as Code, CI/CD, Cloud Computing (Azure, AWS), Data Engineering
 
-## 🌱 I’m Currently Learning
+🌱 I’m Currently Learning
 
-- Exploring advanced techniques in Vue.js to build more interactive and dynamic web applications.
-- Diving deeper into Rust for systems programming.
-- Data Engineering with Databricks
+  - Using Weights & Biases (wandb) to enhance machine learning model evaluation and observability, ensuring better tracking of experiments and performance metrics.
+  - Integrating trained models into web applications for real-world deployment.
+  - Advancing my full stack development skills and learning best practices for testing.
 
 ## 💬 Ask Me About
 
-- Infrastructure as Code
-- CI/CD Pipeline Design and Optimization
-- Vue.js and Frontend Development
-- Flutter Mobile App Development
-- Rust Programming Language
-- 
-- :clown_face: P.S: Check out my website [My Personal Website](https://www.georgemushore.com)
+- Full-stack development (Frontend with Vue.js and Backend automation)
+- Infrastructure as Code and CI/CD Pipeline Optimization
+- Data engineering and analytics
+- Rust Programming for systems development
+
