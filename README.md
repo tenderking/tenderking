@@ -1,11 +1,12 @@
 # Hi there 👋 I'm George Mushore
 
-I'm a versatile software engineer based in Oslo, with a strong background in platform engineering, data analysis, and full-stack development. My expertise spans infrastructure automation, frontend technologies, and data engineering, enabling me to contribute across various stages of the development lifecycle. I'm passionate about leveraging cutting-edge tools and practices in cloud computing, CI/CD pipelines, and data processing to solve complex challenges.
+I'm a versatile software engineer based in Oslo, with a strong background in platform engineering, data analysis, and full-stack development. My expertise spans data analytics,  infrastructure automation and web technologies, enabling me to contribute across various stages of the development lifecycle. I'm a problem solver, a creative, and analytical person. I like to learn new things hence why I have a broad skillset. 
 
 ## 🔧 Skills
-
+- Data science, Platform engineering, Frontend, Fullstack. 
 - **Programming Languages**: Javascript, Typescript, Python, R, SQL, Terraform, Powershell, Bash, Rust, Matlab
-- **Other Skills**: Infrastructure as Code, CI/CD, Cloud Computing (Azure, AWS), Data Engineering
+- **Other Skills**: Infrastructure as Code, CI/CD, Cloud Computing (Azure, AWS), Data Engineering, Developer Experience
+- **Languages**: English, Norwegian, Shona, Spanish
 
 🌱 I’m Currently Learning
 
